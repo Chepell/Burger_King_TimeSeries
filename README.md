@@ -24,6 +24,6 @@
     - Plot time series and forecasts.
 
 ## Known Anomalous Periods
-
 - **March 30, 2020 & July 31, 2020**: General COVID-19 lockdown.
-- **June 12, 2021 & July 31, 2021
+- **June 12, 2021 & July 31, 2021**: Public place restrictions in Moscow (QR-code only).
+- **October 26, 2021 & November 12, 2021**: Moscow lockdown due to COVID-19 surge.
